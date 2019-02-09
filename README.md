@@ -1,10 +1,10 @@
 ## Welcome to GitHub Pages
 
-* [Música](/music)
-* [Películas/Filmes](/movies)
-* [Libros/Livros](/books)
-* [Eventos](/events)
-* [Acerca](/about)
+* [Música](/porto-tandem-es-pt/music)
+* [Películas/Filmes](/porto-tandem-es-pt/movies)
+* [Libros/Livros](/porto-tandem-es-pt/books)
+* [Eventos](/porto-tandem-es-pt/events)
+* [Acerca](/porto-tandem-es-pt/about)
 
 You can use the [editor on GitHub](https://github.com/migh/porto-tandem-es-pt/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
